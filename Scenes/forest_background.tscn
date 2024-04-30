@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://cfta0v68pmtge"]
+
+[ext_resource type="Texture2D" uid="uid://t0o0kqblnlg8" path="res://Assets/Background/Background.png" id="1_xrgi5"]
+
+[node name="ForestBackground" type="Sprite2D"]
+position = Vector2(594, 262)
+scale = Vector2(1.32651, 1)
+texture = ExtResource("1_xrgi5")
